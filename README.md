@@ -59,4 +59,4 @@ TastyTales/
 │ │ └── recipes_10000_v2.csv
 │ └── Main.java # Entry point
 ├── README.md
-└── requirements.txt # Python dependencies for ML
+
